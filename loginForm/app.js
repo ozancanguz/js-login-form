@@ -2,6 +2,9 @@ const form = document.querySelector('form');
 const input = document.querySelector('input');
 const welcomeText = document.querySelector('.welcome-text');
 console.log("kajdkad");
+console.log("kajdkad");
+console.log("kajdkad");
+console.log("kajdkad");
 
 form.addEventListener('submit', (e) => {
     e.preventDefault();
